@@ -1,0 +1,13 @@
+*>*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 22px solid blue;
+    width: 100vw;
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+}
